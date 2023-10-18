@@ -617,7 +617,3 @@ Each task in this stage takes you closer to establishing a fully functional toke
 ## Contact
 
 ---
-
-This README aims to provide a comprehensive overview of the project, its structure, and the tasks involved in building out the various components. Each task is designed to be a manageable chunk of work, helping to break down the complexity of the project into more digestible pieces. 
-
-Is there any specific information or details you would like to add or modify in this draft?
