@@ -75,8 +75,6 @@ project-root/
 
 ... (installation steps)
 
-Certainly, Elijah! Below is the expanded section on Blockchain Architecture with detailed instructions for each task:
-
 ---
 
 ## Blockchain Architecture
@@ -520,10 +518,6 @@ contract ContentInteraction {
 }
 ```
 
-
----
-
-Certainly, Elijah! Here's a revised and more detailed description of the Token Economy stage for your project:
 
 ---
 
